@@ -12,19 +12,15 @@ Project to create an application responsible for registering guests at a confere
 Using technologies like React, managing state and creating a JSON server that serves as API to locally test the project
 
 **Get Started**
-<p align="center">
-    <img src="/src/images/readme-images/getstarted-app.png">
-</p>
+![getStarted](/src/images/readme-images/getstarted-app.png)
 
 **Badges Page**
-<p align="center">
-    <img src="/src/images/readme-images/badges-view-app.png">
-</p>
+![badgesView](/src/images/readme-images/badges-view-app.png)
 
-**Badges Page**
-<p align="center">
-    <img src="/src/images/readme-images/newbadge-view-app.png">
-</p>
+
+**New Badge**
+![newBadge](/src/images/readme-images/newbadge-view-app.png)
+
 
 
 *Icon made by Monkik perfect from www.flaticon.com*
