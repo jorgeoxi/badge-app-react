@@ -1,5 +1,5 @@
 
-![react](/docs/react.jpg)
+![react](https://github.com/jorgeoxi/badge-app-react/blob/master/docs/React.jpg?raw=true)
 
   # BadgeApp
 
@@ -9,17 +9,17 @@ Using technologies like React, managing state and creating a JSON server that se
 
 **Get Started**
 
-![getstartedapp](/docs/getstartedapp.png)
+![getstartedapp](https://github.com/jorgeoxi/badge-app-react/blob/master/docs/getstartedapp.PNG?raw=true)
 
 
 **Badges Page**
 
-![badgesviewapp](/docs/badgesviewapp.png)
+![badgesviewapp](https://github.com/jorgeoxi/badge-app-react/blob/master/docs/badgesviewapp.PNG?raw=true)
 
 
 **New Badge**
 
-![newbadgeviewapp](/docs/newbadgeviewapp.png)
+![newbadgeviewapp](https://github.com/jorgeoxi/badge-app-react/blob/master/docs/newbadgeviewapp.PNG?raw=true)
 
 
 
