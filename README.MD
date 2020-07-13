@@ -1,11 +1,6 @@
-<p align="center">
-  <a href="https://reactjs.org/">
-    <img alt="React" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" width="100" />
-  </a>
-</p>
-<h1 align="center">
-  BadgeApp
-</h1>
+
+![react](/docs/react.jpg)
+  # BadgeApp
 
 Project to create an application responsible for registering guests at a conference.
 
