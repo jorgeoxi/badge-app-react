@@ -7,14 +7,14 @@ Project to create an application responsible for registering guests at a confere
 Using technologies like React, managing state and creating a JSON server that serves as API to locally test the project
 
 **Get Started**
-![getStarted](/docs/getstarted-app.png)
+![getstarted-app](/docs/getstarted-app.png)
 
 **Badges Page**
-![badgesView](/docs/badges-view-app.png)
+![badges-view-app](/docs/badges-view-app.png)
 
 
 **New Badge**
-![newBadge](/docs/newbadge-view-app.png)
+![newbadge-view-app](/docs/newbadge-view-app.png)
 
 
 
